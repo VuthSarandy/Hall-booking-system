@@ -67,7 +67,6 @@ public class Main {
         bookingHistory[bookingCount][3] = hall;
         bookingCount++;
     }
-
     private static void bookingHistory() {
         System.out.println(" +"+"=".repeat(43)+"+");
         System.out.println("|     >> Booking History <<"+" ".repeat(19)+"|");
