@@ -102,7 +102,6 @@ public class Main {
         }else{
             System.out.println("Canceled reboot!");
         }
-
     }
     private static boolean isValidSeatRequest(String[] seatInfo, String[][] shift) {
         if (seatInfo.length == 2) {
