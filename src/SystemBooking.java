@@ -30,6 +30,7 @@ public class SystemBooking {
         System.out.println("|           (F) -> Exit                       |");
         System.out.println(" +"+"=".repeat(50)+"+");
     }
+
     public static void showTime(){
         System.out.println(" +"+"=".repeat(50)+"+");
         System.out.println("|          Daily showtime of CSTAD Hall       |");
